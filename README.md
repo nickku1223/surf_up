@@ -15,3 +15,11 @@ In order to determine if the surf and ice cream shop is sustainable year-round, 
 
 ![June Temp Histogram](Resources/june_temp_hist.png)
 ![December Temp Histogram](Resources/dec_temp_hist.png)
+
+# Summary
+The average temperture for the month June and December falls within the low to mid 70s, which is great temperture range for the surf and ice cream shop, with the high temperture in the mid 80s shows that the business can be sustainable year-round.
+
+On top of the temperture, the percipitation for both months are low (as shown below) which is perfect for outdoor activities! From the weather data we gather for the month of June and December, we can see that not just the summer will be great for water activities, but also in the winter! In conclusion, the weather condition in Oahu will be great for a surf and ice cream shop!
+
+![June Percipitation](Resources/june_prcp_summary.png)
+![December Percipitation](Resources/dec_prcp_summary.png)
