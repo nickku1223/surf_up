@@ -1,5 +1,5 @@
 # Purpose fo the project
-In order to determine if the surf and ice cream shop is sustainable year-round, W. Avy would like to know the temperture for the month June and December in Oahu.
+To determine if the surf and ice cream shop is sustainable year-round, W. Avy would like to know the temperature for the month of June and December in Oahu.
 
 # Results
 
@@ -11,15 +11,15 @@ In order to determine if the surf and ice cream shop is sustainable year-round, 
 
 ![December Temperture](Resources/dec_temp_summary.png)
 
-- The average temperture between the two months are pretty close, while the month December has bigger range of temperture, we can see from the image that it mostly falls into the range of mid 60s to mid 70s. The month June has mostly above 70s. 
+- The average temperature between the two months is pretty close, while December has a bigger range of temperature, we can see from the image that it mostly falls into the range of mid-60s to mid-70s. The month of June has mostly above the 70s. 
 
 ![June Temp Histogram](Resources/june_temp_hist.png)
 ![December Temp Histogram](Resources/dec_temp_hist.png)
 
 # Summary
-The average temperture for the month June and December falls within the low to mid 70s, which is great temperture range for the surf and ice cream shop, with the high temperture in the mid 80s shows that the business can be sustainable year-round.
+The average temperature for June and December falls within the low to mid-70s, which is a great temperature range for the surf and ice cream shop, with the high temperatures in the mid-80s showing that the business can be sustainable year-round.
 
-On top of the temperture, the percipitation for both months are low (as shown below) which is perfect for outdoor activities! From the weather data we gather for the month of June and December, we can see that not just the summer will be great for water activities, but also in the winter! In conclusion, the weather condition in Oahu will be great for a surf and ice cream shop!
+On top of the temperature, the precipitation for both months is low (as shown below) which is perfect for outdoor activities! From the weather data we gather for June and December, we can see that not just the summer will be great for water activities, but also the winter! In conclusion, the weather condition in Oahu will be great for a surf and ice cream shop!
 
 ![June Percipitation](Resources/june_prcp_summary.png)
 ![December Percipitation](Resources/dec_prcp_summary.png)
